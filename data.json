@@ -1,0 +1,38 @@
+[    
+    {
+        "nome": "JavaScript",
+        "descricao": "O JS é a linguagem da web, usada para criar interatividade em sites.",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide"
+    },
+    {
+        "nome": "Python",
+        "descricao": "Python é uma linguagem popular para ciência de dados, machine learning e desenvolvimento web.",
+        "ano": 1991,
+        "link": "https://docs.python.org/3/"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem versátil usada para aplicações empresariais, Android e sistemas de grande escala.",
+        "ano": 1995,
+        "link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# (C Sharp) é uma linguagem moderna da Microsoft, usada principalmente para desenvolvimento com .NET e jogos (Unity).",
+        "ano": 2000,
+        "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superset do JavaScript que adiciona tipos, melhorando a robustez de grandes aplicações.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/docs/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de script do lado do servidor muito popular para desenvolvimento web, sendo a base de sistemas como WordPress.",
+        "ano": 1995,
+        "link": "https://www.php.net/manual/pt_BR/"
+    }
+]
