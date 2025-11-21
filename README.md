@@ -65,10 +65,10 @@ Participar de hackathons ou eventos para aplicar o que estou aprendendo e cresce
 
 Se quiser acompanhar meu progresso:
 
-GitHub: (seu link do GitHub)
+GitHub: https://github.com/MarleyCastro
 
-LinkedIn: (seu perfil LinkedIn)
+LinkedIn: [(perfil LinkedIn)](https://www.linkedin.com/in/marley-castro/)
 
-Blog / Portfólio: (se você tiver)
+Blog / Portfólio: [(portifólio)](https://marleycastro.github.io/Portif-lio-Marley1/)
 
 Se você estiver interessado em fazer a imersão também, posso te indicar recursos, materiais de estudo e dicas para tirar o máximo proveito.
