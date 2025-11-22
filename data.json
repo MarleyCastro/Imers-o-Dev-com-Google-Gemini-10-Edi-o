@@ -1,304 +1,302 @@
 [
   {
-    "nome": "TypeScript",
-    "descricao": "Superset de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro. Melhora a manutenibilidade de grandes bases de código.",
-    "data_criacao": "2012",
-    "link": "https://www.typescriptlang.org/",
-    "tags": [
-      "Linguagem de Programação",
-      "Tipagem Estática",
-      "Frontend",
-      "Backend",
-      "Ferramenta"
-    ]
+    "nome": "Fiat Uno Mille Fire Economy 1.0",
+    "descricao": "O clássico 'tanquinho' que nunca te deixa na mão. Versão 2008, focada em economia máxima de combustível. Motor 1.0 Fire, quatro portas, super leve e ágil no trânsito urbano. Não tem luxo, mas tem a robustez e a manutenção mais barata do Brasil. Ideal para quem busca um primeiro carro ou um veículo para o dia a dia de trabalho.",
+    "valor": "R$ 15.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
   },
   {
-    "nome": "Kotlin",
-    "descricao": "Linguagem de programação moderna, concisa e segura, que roda na JVM (Java Virtual Machine) e é a linguagem preferida para desenvolvimento Android.",
-    "data_criacao": "2011",
-    "link": "https://kotlinlang.org/",
-    "tags": [
-      "Linguagem de Programação",
-      "Mobile",
-      "JVM",
-      "Backend"
-    ]
+    "nome": "VW Gol G3 Power 1.0 16V",
+    "descricao": "Modelo 2001, um dos designs mais harmoniosos da família Gol. Versão Power completa (ar quente, vidros e travas elétricas), mas equipado com o polêmico motor 1.0 16V. Potente para a categoria quando em alta, mas exige manutenção mais atenciosa. Perfeito para quem não tem medo de um motor mais sofisticado da época e busca um visual moderno com preço de usado.",
+    "valor": "R$ 13.900",
+    "imagem": "https://blog.checkcarro.com.br/wp-content/uploads/2024/10/vw-volkswagen-gol-g3-jpg.png"
   },
   {
-    "nome": "Go (Golang)",
-    "descricao": "Linguagem de programação desenvolvida pelo Google, focada em simplicidade, eficiência e concorrência, ideal para sistemas de backend e microsserviços.",
-    "data_criacao": "2009",
-    "link": "https://go.dev/",
-    "tags": [
-      "Linguagem de Programação",
-      "Concorrência",
-      "Backend",
-      "Sistemas"
-    ]
+    "nome": "Chevrolet Monza Classic SE 2.0 EFI",
+    "descricao": "O verdadeiro conforto dos anos 90! Este Monza 1993, versão topo de linha Classic SE, possui injeção eletrônica (EFI), direção hidráulica e bancos aveludados. Um sedã espaçoso, com rodar suave e motor 2.0 robusto. Excelente exemplar para colecionadores ou para quem valoriza o conforto clássico acima de tudo.",
+    "valor": "R$ 19.800",
+    "imagem": "https://cdn.autopapo.com.br/carro/chevrolet/monza/destaque-v1.png"
   },
   {
-    "nome": "Rust",
-    "descricao": "Linguagem de programação que foca em segurança de memória e performance, frequentemente usada para sistemas operacionais, motores de jogos e infraestrutura.",
-    "data_criacao": "2010",
-    "link": "https://www.rust-lang.org/",
-    "tags": [
-      "Linguagem de Programação",
-      "Performance",
-      "Sistemas",
-      "Segurança de Memória"
-    ]
+    "nome": "VW Parati Club 1.8 Mi",
+    "descricao": "Perua robusta e confiável, ano 1998, já com injeção multiponto (Mi). A versão Club era intermediária, oferecendo bom pacote de opcionais e o lendário motor AP 1.8, sinônimo de durabilidade e peças acessíveis. Ideal para famílias ou para quem precisa de muito espaço no porta-malas sem abrir mão da manutenção simples do Gol G2.",
+    "valor": "R$ 17.500",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3588/model_main_com_cor_desktop_webp_com_sombra_14112019161158.webp"
   },
   {
-    "nome": "Swift",
-    "descricao": "Linguagem de programação poderosa e intuitiva desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS.",
-    "data_criacao": "2014",
-    "link": "https://www.swift.org/",
-    "tags": [
-      "Linguagem de Programação",
-      "Mobile",
-      "iOS",
-      "Desenvolvimento Apple"
-    ]
+    "nome": "Ford Fiesta GL Class 1.0",
+    "descricao": "Hatchback simples e elegante, ano 2001. Este modelo é um dos últimos a usar o confiável motor Zetec Rocam 1.0. Quatro portas, com acabamento razoável para a categoria e ótima dirigibilidade. Perfeito para a cidade, oferece um rodar mais estável que muitos concorrentes diretos de mesma época.",
+    "valor": "R$ 14.900",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/223_4.webp"
   },
   {
-    "nome": "React",
-    "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário, mantida pelo Facebook (Meta).",
-    "data_criacao": "2013",
-    "link": "https://reactjs.org/",
-    "tags": [
-      "Biblioteca",
-      "Frontend",
-      "UI/UX",
-      "Desenvolvimento Web"
-    ]
+    "nome": "Chevrolet Chevette SL 1.6/S",
+    "descricao": "O tração traseira mais amado do Brasil, ano 1989. Versão SL, já com o motor 1.6 a álcool (S), que entrega excelente torque. Mecânica fácil de mexer e manutenção extremamente barata. Uma máquina lendária, perfeita para entusiastas, projetos de restauração ou uso como veículo rústico de fim de semana.",
+    "valor": "R$ 12.000",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/7180/model_main_com_cor_desktop_webp_com_sombra_18112019181121.webp"
   },
   {
-    "nome": "Angular",
-    "descricao": "Framework de código aberto baseado em TypeScript, mantido pelo Google, utilizado para construir grandes aplicações de página única (SPAs).",
-    "data_criacao": "2016",
-    "link": "https://angular.io/",
-    "tags": [
-      "Framework",
-      "Frontend",
-      "TypeScript",
-      "Web App"
-    ]
+    "nome": "VW Voyage Super 1.8 (Quadrado)",
+    "descricao": "Exemplar de 1987, com o design clássico 'quadrado'. Versão Super com motor AP 1.8 (ainda carburado). Um sedã com desempenho surpreendente para a época e uma base mecânica quase indestrutível. Carro íntegro, com documentação em dia, ideal para quem busca nostalgia e um motor que responde bem.",
+    "valor": "R$ 18.500",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3702/model_main_com_cor_desktop_webp_com_sombra_14112019171120.webp"
   },
   {
-    "nome": "Vue.js",
-    "descricao": "Framework progressivo de JavaScript para construir interfaces de usuário, conhecido por sua simplicidade e facilidade de integração.",
-    "data_criacao": "2014",
-    "link": "https://vuejs.org/",
-    "tags": [
-      "Framework",
-      "Frontend",
-      "Reatividade",
-      "Interface de Usuário"
-    ]
+    "nome": "Fiat Siena ELX 1.4 Flex",
+    "descricao": "Sedã compacto confiável, ano 2010. Versão ELX com motor 1.4 Fire Flex, conhecido por unir desempenho razoável com baixo consumo. Quatro portas, com porta-malas generoso. Ótima opção para motoristas de aplicativo ou famílias que precisam de um veículo mais novo, econômico e de manutenção simples.",
+    "valor": "R$ 25.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/470_4.webp"
   },
   {
-    "nome": "Node.js",
-    "descricao": "Ambiente de execução (runtime) que permite executar JavaScript do lado do servidor, utilizando um modelo I/O não-bloqueante orientado a eventos.",
-    "data_criacao": "2009",
-    "link": "https://nodejs.org/",
-    "tags": [
-      "Runtime",
-      "Backend",
-      "Servidor",
-      "Ambiente de Execução"
-    ]
+    "nome": "Chevrolet Corsa Hatch Wind 1.0 MPFI",
+    "descricao": "Hatch de entrada, ano 2002. Um dos últimos Corsa 'bolinha', já com injeção multiponto (MPFI). Um carro leve, com bom espaço interno para o seu porte e manutenção extremamente popular. Este Wind é básico, mas confiável e excelente para quem está apertado no orçamento, mas busca um 1.0 de procedência.",
+    "valor": "R$ 12.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/139_4.webp"
   },
   {
-    "nome": "Next.js",
-    "descricao": "Framework React para produção que oferece renderização do lado do servidor (SSR), geração de sites estáticos (SSG) e roteamento de API.",
-    "data_criacao": "2016",
-    "link": "https://nextjs.org/",
-    "tags": [
-      "Framework",
-      "Fullstack",
-      "React",
-      "SSR",
-      "Frontend"
-    ]
+    "nome": "VW Saveiro Summer 1.6 Mi AP",
+    "descricao": "Picape compacta estilosa, ano 1997. Versão especial Summer com detalhes exclusivos e o consagrado motor AP 1.6 Mi. Cabine estendida, ideal para uso misto (trabalho leve e lazer). Uma picape 'quadrada' mais moderna e robusta, com a credibilidade do motor AP e fácil revenda.",
+    "valor": "R$ 24.000",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3630/model_main_com_cor_desktop_webp_com_sombra_14112019161113.webp"
   },
   {
-    "nome": "Docker",
-    "descricao": "Plataforma para empacotar, distribuir e executar aplicativos em contêineres, garantindo portabilidade e consistência entre ambientes.",
-    "data_criacao": "2013",
-    "link": "https://www.docker.com/",
-    "tags": [
-      "Contêineres",
-      "DevOps",
-      "Virtualização",
-      "Ferramenta"
-    ]
+    "nome": "Fiat Fiorino Furgão 1.5 ie",
+    "descricao": "A parceira de trabalho. Furgão ano 1995, já com injeção eletrônica 1.5 (ie). Mecânica simples, extremamente durável e capacidade de carga excelente para o porte. Veículo de uso estritamente comercial, ideal para entregas ou pequenos transportes, com baixíssimo custo operacional.",
+    "valor": "R$ 11.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/275_4.webp"
   },
   {
-    "nome": "Kubernetes",
-    "descricao": "Sistema de código aberto para automatizar a implantação, o dimensionamento e o gerenciamento de aplicativos em contêineres.",
-    "data_criacao": "2014",
-    "link": "https://kubernetes.io/",
-    "tags": [
-      "Orquestração",
-      "Contêineres",
-      "DevOps",
-      "Cloud Computing"
-    ]
+    "nome": "Ford Escort GL 1.8 AP",
+    "descricao": "Versão 1996, já com o motor AP 1.8 da Volkswagen, que resolveu os problemas de motorização anteriores e garantiu durabilidade. Um hatch com dirigibilidade superior, suspensão macia e bom acabamento interno. Carro ideal para quem busca um 1.8 forte, mas com a linha estética mais arredondada da Ford.",
+    "valor": "R$ 14.500",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/215_4.webp"
   },
   {
-    "nome": "Terraform",
-    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de infraestrutura em nuvem usando arquivos de configuração.",
-    "data_criacao": "2014",
-    "link": "https://www.terraform.io/",
-    "tags": [
-      "IaC",
-      "DevOps",
-      "Provisionamento",
-      "Cloud"
-    ]
+    "nome": "Chevrolet Kadett GLS 2.0 MPFI",
+    "descricao": "Hatch médio de alto desempenho dos anos 90, ano 1994. Versão GLS, topo de linha, com motor 2.0 e injeção multiponto (MPFI). Possui vidros, travas e direção hidráulica. Um carro rápido, espaçoso e que oferece um rodar firme. Ideal para quem valoriza a esportividade da GM clássica.",
+    "valor": "R$ 19.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/159_4.webp"
   },
   {
-    "nome": "AWS Lambda",
-    "descricao": "Serviço de computação serverless da Amazon Web Services (AWS) que permite executar código sem provisionar ou gerenciar servidores.",
-    "data_criacao": "2014",
-    "link": "https://aws.amazon.com/lambda/",
-    "tags": [
-      "Serverless",
-      "Cloud Computing",
-      "FaaS",
-      "AWS"
-    ]
+    "nome": "Fiat Palio Weekend ELX 1.6 8V",
+    "descricao": "Perua da primeira geração, ano 1999. Equipada com o motor 1.6 8V, um dos mais robustos da Fiat. Possui bom espaço interno e suspensão elevada que lida bem com estradas de terra. A ELX oferece um pacote de conforto decente. Uma excelente opção para o sítio ou viagens com a família e bagagem.",
+    "valor": "R$ 15.800",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/405_4.webp"
   },
   {
-    "nome": "MongoDB",
-    "descricao": "Banco de dados NoSQL orientado a documentos que oferece alta disponibilidade, escalabilidade horizontal e flexibilidade de esquema.",
-    "data_criacao": "2009",
-    "link": "https://www.mongodb.com/",
-    "tags": [
-      "Banco de Dados",
-      "NoSQL",
-      "Documentos",
-      "Escalabilidade"
-    ]
+    "nome": "VW Gol G4 Trend 1.0 8V",
+    "descricao": "Um dos últimos Gol G4 produzidos, ano 2013. Versão Trend, que oferece um mínimo de conforto e segurança. Embora seja uma plataforma antiga, é extremamente confiável e popular. Perfeito para quem busca um carro 'novo' no visual, mas com a mecânica simples e acessível do Gol G2/G3.",
+    "valor": "R$ 22.900",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/537_4.webp"
   },
   {
-    "nome": "PostgreSQL",
-    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional poderoso, de código aberto, conhecido por sua robustez e conformidade com padrões SQL.",
-    "data_criacao": "1996",
-    "link": "https://www.postgresql.org/",
-    "tags": [
-      "Banco de Dados",
-      "SQL",
-      "Relacional",
-      "Open Source"
-    ]
+    "nome": "Ford Ka GL 1.0 (Endura)",
+    "descricao": "O simpático e controverso compacto da Ford, ano 2000. Design futurista (para a época) e motor 1.0 Endura. Extremamente pequeno, ideal para estacionar em grandes centros urbanos e super econômico. Versão GL já vinha com limpador e desembaçador traseiro. Baixíssimo preço de aquisição.",
+    "valor": "R$ 9.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/233_4.webp"
   },
   {
-    "nome": "Redis",
-    "descricao": "Armazenamento de estrutura de dados na memória (in-memory) de código aberto, usado como cache, broker de mensagens e banco de dados.",
-    "data_criacao": "2009",
-    "link": "https://redis.io/",
-    "tags": [
-      "Banco de Dados",
-      "Cache",
-      "In-memory",
-      "Estruturas de Dados"
-    ]
+    "nome": "Chevrolet Ipanema GL 1.8",
+    "descricao": "Perua derivada do Kadett, ano 1992. Uma opção de perua espaçosa e barata. Motor 1.8 a gasolina, manutenção GM clássica e popular. Ideal para quem precisa de um carro grande (sem luxo) para transportar objetos, mas acha o Monza muito caro.",
+    "valor": "R$ 10.500",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/158_4.webp"
   },
   {
-    "nome": "Apache Kafka",
-    "descricao": "Plataforma distribuída de streaming de eventos capaz de lidar com grandes volumes de dados, usada para construir pipelines de dados em tempo real.",
-    "data_criacao": "2011",
-    "link": "https://kafka.apache.org/",
-    "tags": [
-      "Streaming de Dados",
-      "Mensageria",
-      "Event-Driven",
-      "Big Data"
-    ]
+    "nome": "VW Polo Hatch 1.6 Mi",
+    "descricao": "Hatch 'premium' da VW, ano 2005. Embora compartilhe o motor 1.6 com o Gol, o Polo oferece acabamento superior, estrutura mais rígida e melhor isolamento acústico. Carro mais moderno e seguro, ideal para quem busca qualidade de carro médio com manutenção de popular.",
+    "valor": "R$ 24.500",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/420_4.webp"
   },
   {
-    "nome": "Spring Boot",
-    "descricao": "Extensão do framework Spring para simplificar a criação de aplicações Spring autônomas e de grau de produção, focada em microsserviços.",
-    "data_criacao": "2014",
-    "link": "https://spring.io/projects/spring-boot",
-    "tags": [
-      "Framework",
-      "Backend",
-      "Microsserviços",
-      "JVM"
-    ]
+    "nome": "Fiat Prêmio CSL 1.5",
+    "descricao": "Sedã clássico da Fiat, precursor do Siena, ano 1988. Versão CSL (topo de linha) com motor 1.5. Espaçoso e com porta-malas que era referência. Mecânica simples e confiável. Uma relíquia em bom estado, perfeita para quem aprecia a história da Fiat no Brasil.",
+    "valor": "R$ 11.000",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/426_4.webp"
   },
   {
-    "nome": "Django",
-    "descricao": "Framework de desenvolvimento web de alto nível que incentiva o desenvolvimento rápido e design limpo e pragmático, utilizando o padrão MVC.",
-    "data_criacao": "2005",
-    "link": "https://www.djangoproject.com/",
-    "tags": [
-      "Framework",
-      "Backend",
-      "ORM",
-      "Desenvolvimento Web Rápido"
-    ]
+    "nome": "Chevrolet Vectra Elegance 2.0 8V",
+    "descricao": "Sedã executivo acessível, ano 2008. Motor 2.0 8V flex, conhecido por ser \"torcudo\" e de fácil manutenção. Versão Elegance com ar digital, rodas de liga e bom pacote de segurança. Excelente relação custo-benefício para quem deseja conforto de carro grande com motorização robusta e popular.",
+    "valor": "R$ 32.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/195_4.webp"
   },
   {
-    "nome": "Svelte",
-    "descricao": "Um compilador que transforma componentes reativos em código vanilla JavaScript eficiente, sem a sobrecarga de um framework no lado do cliente.",
-    "data_criacao": "2016",
-    "link": "https://svelte.dev/",
-    "tags": [
-      "Compilador",
-      "Frontend",
-      "Framework",
-      "Web Assembly"
-    ]
+    "nome": "Renault Clio RT 1.6 8V",
+    "descricao": "Hatch francês com mecânica confiável, ano 2004. Versão RT, que já oferece direção hidráulica e vidros elétricos. O motor 1.6 8V da Renault é surpreendentemente forte e econômico. Ótima opção para fugir um pouco do tradicional Gol/Corsa, oferecendo um conforto interno superior.",
+    "valor": "R$ 16.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/437_4.webp"
   },
   {
-    "nome": "Flutter",
-    "descricao": "UI toolkit do Google para criar aplicativos nativamente compilados para mobile, web e desktop a partir de uma única base de código.",
-    "data_criacao": "2017",
-    "link": "https://flutter.dev/",
-    "tags": [
-      "Mobile",
-      "Framework",
-      "UI Toolkit",
-      "Cross-Platform"
-    ]
+    "nome": "VW Fusca Série Ouro",
+    "descricao": "Um dos últimos Fuscas produzidos, ano 1996 (retorno da produção). Versão Série Ouro, com detalhes exclusivos e motor 1.600 com catalisador. Veículo com apelo histórico e de coleção, com manutenção trivial e inesgotável. Um clássico eterno, perfeito para o uso urbano nostálgico.",
+    "valor": "R$ 29.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/316_4.webp"
   },
   {
-    "nome": "GraphQL",
-    "descricao": "Linguagem de consulta de dados para APIs e um runtime para cumprir essas consultas com seus dados existentes, criada pelo Facebook (Meta).",
-    "data_criacao": "2015",
-    "link": "https://graphql.org/",
-    "tags": [
-      "Linguagem de Consulta",
-      "API",
-      "Backend",
-      "Comunicação de Dados"
-    ]
+    "nome": "Fiat Uno Electronic 1.0 (Brio)",
+    "descricao": "Modelo de transição, ano 1994. Já com injeção eletrônica monoponto (ie), que melhorou a partida a frio e o consumo, mas ainda com o design quadrado. O Brio era a versão mais simples. Carro de batalha, com o DNA de agilidade e confiabilidade do Uno. Poucas frescuras, muita utilidade.",
+    "valor": "R$ 10.900",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
   },
   {
-    "nome": "Jenkins",
-    "descricao": "Servidor de automação de código aberto que ajuda a automatizar partes do processo de desenvolvimento de software relacionadas à integração contínua (CI) e entrega contínua (CD).",
-    "data_criacao": "2011",
-    "link": "https://www.jenkins.io/",
-    "tags": [
-      "CI/CD",
-      "DevOps",
-      "Automação",
-      "Integração Contínua"
-    ]
+    "nome": "VW Saveiro CL 1.8 Mi (G2)",
+    "descricao": "Picape robusta de trabalho, ano 1998. Versão CL (básica) com cabine simples e o confiável motor AP 1.8 Mi. Ideal para pequenas empresas ou fazendas, onde a força do 1.8 e a simplicidade de manutenção são cruciais. Carroceria íntegra e sem grandes detalhes.",
+    "valor": "R$ 21.000",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3630/model_main_com_cor_desktop_webp_com_sombra_14112019161113.webp"
   },
   {
-    "nome": "Prometheus",
-    "descricao": "Sistema de monitoramento e alerta de código aberto altamente flexível e escalável, ideal para ambientes dinâmicos de microsserviços.",
-    "data_criacao": "2012",
-    "link": "https://prometheus.io/",
-    "tags": [
-      "Monitoramento",
-      "Observabilidade",
-      "DevOps",
-      "Alerta"
-    ]
+    "nome": "Ford Royale Ghia 2.0",
+    "descricao": "A perua grande derivada do Ford Versailles (que era um VW Santana rebatizado). Ano 1995, versão topo de linha Ghia, com motor 2.0. Conforto de sedã de luxo e espaço de perua familiar. Ar-condicionado, direção hidráulica e o robusto motor AP 2.0. Um carro imponente com preço de popular.",
+    "valor": "R$ 16.900",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/248_4.webp"
+  },
+  {
+    "nome": "VW Gol G2 CLI 1.6 Mi",
+    "descricao": "O popular Bolinha que todo mundo ama! Ano 1997, motor AP 1.6 Injeção Eletrônica (Mi), já com vidros e travas elétricas. É o carro perfeito para o dia a dia, robusto, fácil de manter e com peças em qualquer esquina. Modelo CLI, a versão intermediária, mais confortável que a CL mas mantendo a simplicidade mecânica. Pintura em bom estado e interior conservado. Pneus novos.",
+    "valor": "R$ 18.500",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/322_4.webp"
+  },
+  {
+    "nome": "Fiat Palio EDX 1.0 4 Portas",
+    "descricao": "Palio G1, ano 1998, 4 portas, motor Fiasa 1.0. Excelente opção para quem busca economia máxima e baixo custo de manutenção. É um carro extremamente honesto, com manutenção preventiva em dia. Versão EDX, bem básica, sem opcionais de fábrica, mas com alarme instalado. Ideal para universitários ou para o segundo carro da família. Documentação OK.",
+    "valor": "R$ 13.990",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/399_4.webp"
+  },
+  {
+    "nome": "Chevrolet Corsa Sedan Super 1.6 8V",
+    "descricao": "Sedan confiável e muito espaçoso. Ano 1999, motor 1.6 de 8 válvulas, potente e econômico. Versão Super, já equipada com direção hidráulica, ar-condicionado (precisa de gás) e vidros elétricos dianteiros. O Corsa Sedan é famoso pelo porta-malas generoso e pela mecânica GM Family I, barata e durável. Ideal para viagens curtas e longas.",
+    "valor": "R$ 19.800",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/142_4.webp"
+  },
+  {
+    "nome": "Ford Del Rey Belina Ghia 1.8",
+    "descricao": "Uma verdadeira relíquia da Autolatina. Belina ano 1987, versão topo de linha Ghia, equipada com motor AP 1.8 a gasolina. Interior luxuoso (para a época) com acabamento em veludo. Carro em excelente estado de conservação, pintura original e todos os detalhes de acabamento preservados. Perfeito para colecionadores ou entusiastas de clássicos. Possui direção hidráulica.",
+    "valor": "R$ 25.000",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/204_4.webp"
+  },
+  {
+    "nome": "VW Voyage C 1.6 Álcool (Quadrado)",
+    "descricao": "Voyage clássico quadrado, ano 1985, motor 1.6 a Álcool. Configuração simples (versão C), com painel satélite e bancos originais. Carro íntegro, ótimo para projetos de restauração ou para uso diário por quem não abre mão da robustez dos motores AP antigos. Necessita apenas de pequenos ajustes na carburação. Placa preta em potencial.",
+    "valor": "R$ 17.500",
+    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3702/model_main_com_cor_desktop_webp_com_sombra_14112019171120.webp"
+  },
+  {
+    "nome": "Chevrolet Opala Comodoro 4.1",
+    "descricao": "O seis cilindros mais amado do Brasil! Opala Comodoro ano 1989, motor 4.1 (250s) a gasolina, câmbio manual de 4 marchas. Modelo de luxo da época, com interior reformado mantendo o padrão original. Carro muito bem cuidado, utilizado apenas em passeios de fim de semana. Direção hidráulica e suspensão macia. Ronco inconfundível.",
+    "valor": "R$ 45.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/170_4.webp"
+  },
+  {
+    "nome": "Fiat Tempra HLX 2.0 16V",
+    "descricao": "Sedã de respeito dos anos 90, ano 1996. Versão HLX, top de linha, com motor 2.0 16V de 127cv. Completo de fábrica: ar digital, direção hidráulica, trio elétrico e teto solar manual (raridade!). Manutenção em dia, correia dentada trocada. Um carro que oferece muito conforto e desempenho por um preço acessível. Exige um proprietário cuidadoso.",
+    "valor": "R$ 16.900",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/483_4.webp"
+  },
+  {
+    "nome": "VW Fox City 1.0 Flex",
+    "descricao": "Fox ano 2006, versão de entrada City, motor 1.0 Flex. Carro com design elevado, excelente posição de dirigir e porta-malas decente para o segmento. Super econômico no etanol e na gasolina. Possui ar quente e limpador traseiro. Baixa quilometragem para o ano, perfeito para rodar na cidade com agilidade e visibilidade.",
+    "valor": "R$ 23.500",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/529_4.webp"
+  },
+  {
+    "nome": "Chevrolet Celta Life 1.0 VHC-E",
+    "descricao": "O popular que nunca quebra! Celta ano 2009, motor 1.0 VHC-E, já Flexpower, muito econômico. Versão Life, a mais básica (2 portas), mas com som simples instalado. É o carro ideal para quem busca baixíssimo custo de seguro e manutenção. Pneus em bom estado. Revisão simples feita há 2 meses.",
+    "valor": "R$ 19.900",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/133_4.webp"
+  },
+  {
+    "nome": "Ford Focus Hatch 1.6 8V (Geração 1.5)",
+    "descricao": "Hatch médio de excelente dirigibilidade. Focus ano 2004, motor 1.6 8V Zetec Rocam. Versão com ar-condicionado, direção hidráulica e vidros elétricos. Este modelo já possui o 'facelift' da primeira geração, conhecido pelo conjunto mecânico robusto. Ótimo desempenho na estrada e muito estável nas curvas.",
+    "valor": "R$ 22.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/227_4.webp"
+  },
+  {
+    "nome": "Fiat Uno SX Young 1.0",
+    "descricao": "Edição especial do Uno Mille, ano 2002. Motor Fiasa 1.0, super leve e ágil na cidade. O diferencial do Young está nos detalhes internos e no adesivo exclusivo. Carro muito bem conservado, com pintura original e interior limpo. É um dos últimos Fiasa antes da consolidação do Fire. Simplesmente indestrutível.",
+    "valor": "R$ 15.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
+  },
+  {
+    "nome": "Chevrolet Omega GLS 2.2 MPFI",
+    "descricao": "O último Omega brasileiro, ano 1997. Motor 2.2 MPFI de 4 cilindros, mais econômico que o 3.0 e 4.1, mas mantendo o conforto inigualável. Versão GLS completa, com ar digital, direção escamoteável e bancos de veludo. Carro de procedência, ideal para quem busca um sedã grande e confortável a preço de popular. Necessário apenas pequenos retoques na pintura.",
+    "valor": "R$ 24.900",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/169_4.webp"
+  },
+  {
+    "nome": "VW Golf GLX 2.0 Mi (Mexicanão)",
+    "descricao": "Golf GLX importado do México, ano 1995. Motor 2.0 Injeção Eletrônica, famoso pela sua força e confiabilidade. Versão completa, com ar-condicionado e teto solar elétrico original de fábrica. Um clássico hatch dos anos 90, com acabamento superior aos nacionais da época. Carroceria e mecânica em excelente estado.",
+    "valor": "R$ 27.000",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/326_4.webp"
+  },
+  {
+    "nome": "Fiat Palio Fire Economy 1.0 2P",
+    "descricao": "O campeão de vendas da economia Fiat. Palio G3 (frente atualizada), ano 2009, motor Fire 1.0 Economy, otimizado para ser ultra-econômico. Modelo 2 portas, ideal para o dia a dia e fácil de estacionar. Possui apenas desembaçador traseiro. Perfeito para motoristas de aplicativo ou uso urbano intenso. Documentação e IPVA 2024 pagos.",
+    "valor": "R$ 21.000",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/399_4.webp"
+  },
+  {
+    "nome": "Renault Sandero Expression 1.6 8V",
+    "descricao": "Hatch moderno, espaçoso e com mecânica confiável Renault/Nissan. Sandero ano 2012, motor 1.6 8V, robusto e com bom torque. Versão Expression, já equipada com ar-condicionado, direção hidráulica e computador de bordo. Posição de dirigir alta e amplo espaço interno, superando muitos concorrentes da categoria.",
+    "valor": "R$ 29.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/451_4.webp"
+  },
+  {
+    "nome": "Ford Corcel II LDO 1.6",
+    "descricao": "Corcel II de segunda fase, ano 1981, versão LDO (Luxo Decorado Opcional). Motor 1.6 a gasolina. Carro clássico e macio de guiar, famoso pelo conforto de seu rodar. Interior em tecido marrom original e painel em ótimo estado. Um pedaço da história automobilística brasileira. Excelente para encontros de carros antigos.",
+    "valor": "R$ 19.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/209_4.webp"
+  },
+  {
+    "nome": "Chevrolet Montana Conquest 1.8 Flex",
+    "descricao": "Picape compacta forte e versátil. Montana ano 2010, motor 1.8 FlexPower, com caçamba maior que a concorrente da Fiat. Versão Conquest, com direção hidráulica e protetor de caçamba. Ótimo veículo de trabalho ou para lazer, ideal para transportar cargas leves. Mecânica barata e amplamente conhecida no mercado.",
+    "valor": "R$ 31.000",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/165_4.webp"
+  },
+  {
+    "nome": "VW Gol G5 1.0 Ecomotion",
+    "descricao": "O Gol na plataforma moderna. Ano 2011, motor 1.0 Flex, já com o sistema Ecomotion que visa maior economia de combustível. O G5 trouxe mais segurança e conforto em relação às gerações anteriores. Versão básica, 2 portas, mas com excelente estrutura. Manutenção em dia, carro pronto para rodar.",
+    "valor": "R$ 25.900",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/537_4.webp"
+  },
+  {
+    "nome": "Fiat Stilo Sporting 1.8 8V",
+    "descricao": "Hatch médio com visual esportivo. Stilo ano 2008, motor 1.8 8V Flex (GM), famoso pela robustez e torque. Versão Sporting com rodas de liga leve exclusivas e detalhes internos. Possui ar-condicionado, direção elétrica Dual Drive e som original. Carro muito completo e divertido de dirigir. Pneus semi-novos.",
+    "valor": "R$ 26.500",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/479_4.webp"
+  },
+  {
+    "nome": "VW Brasília 1600",
+    "descricao": "Clássico robusto da Volkswagen, ano 1979. Motor 1600 refrigerado a ar, carburador simples. Carro de família, muito bem conservado, com interior original de fábrica e pintura na cor bege clássica. Veículo com excelente estrutura, ideal para quem quer um clássico confiável e com alta liquidez. Pneus faixas brancas novos.",
+    "valor": "R$ 22.000",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/302_4.webp"
+  },
+  {
+    "nome": "Peugeot 206 Soleil 1.6 16V",
+    "descricao": "Hatch francês charmoso e potente. Ano 2002, motor 1.6 16V de 110cv, muito ágil e divertido. Versão Soleil, com bom pacote de opcionais como ar-condicionado e direção hidráulica. A fama de manutenção cara é mito, este carro está com a revisão mecânica em dia e possui ótimo histórico. Design atemporal.",
+    "valor": "R$ 16.900",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/406_4.webp"
+  },
+  {
+    "nome": "Hyundai HB20 Comfort Plus 1.0",
+    "descricao": "Um dos populares mais modernos e desejados. HB20 ano 2014, motor 1.0 aspirado, econômico e eficiente. Versão Comfort Plus, com ar-condicionado, direção hidráulica e vidros elétricos nas 4 portas. Carro com ótimo acabamento interno e histórico de baixa manutenção. Perfeito para quem busca modernidade e segurança.",
+    "valor": "R$ 38.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/804_4.webp"
+  },
+  {
+    "nome": "Ford Verona LX 1.8",
+    "descricao": "Sedã médio derivado do Escort. Verona ano 1991, motor AP 1.8 a gasolina. Versão LX com bom pacote de conforto, incluindo vidros e travas elétricas. Um dos carros mais elegantes da parceria Autolatina. Mecânica robusta e de fácil manutenção. Interior em tecido cinza original. Ótima opção custo-benefício para sedã.",
+    "valor": "R$ 14.500",
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/255_4.webp"
+  },
+  {
+    "nome": "Fiat Duna CSL 1.6",
+    "descricao": "Raridade no Brasil! O sedã médio da Fiat, versão rebatizada do Prêmio/Elba, importado da Argentina. Duna CSL ano 1992, motor 1.6 Fiasa. Possui ar-condicionado e bom espaço interno. Carro ideal para colecionadores ou para quem aprecia modelos exclusivos. Mecânica compatível com o Prêmio nacional. Documentos em ordem.",
+    "valor": "R$ 18.000",
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/267_4.webp"
+  },
+  {
+    "nome": "Ford Courier L 1.6 Mi",
+    "descricao": "Picape utilitária Ford, ano 2001. Motor Zetec Rocam 1.6 Mi, conhecido pela força e durabilidade. Versão L (básica), com cabine simples e grande capacidade de carga. Ideal para pequenos empreendedores ou uso rural. Mecânica revisada, sem vazamentos, pneus robustos para trabalho. Direção manual, carro simples e forte.",
+    "valor": "R$ 17.800",
+    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/210_4.webp"
   }
 ]

@@ -1,40 +1,70 @@
 <!DOCTYPE html>
 <html lang="pt">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>TopCars</title>
+    <link rel="shortcut icon" href="assests/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <header>
-        <h1>Base de Conhecimento</h1>
+        <h1 style="color: #F67221;">TopCars</h1>
         <div>
-            <input type="text" placeholder="digite linguagem de programação">
-            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+            <input id="campo-busca" type="text" placeholder="Digite o nome do veículo">
+            <button id="botao-busca">Buscar</button>
+            <button id="theme-toggle-button">Mudar Tema</button>
         </div>
     </header>
 
     <main>
         <section class="card-container">
-            <!-- <article class="card">
-                <h2>JavaScript</h2>
-                <p>1995</p>
-                <p>JavaScript é uma linguagem de programação</p>
-                <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Saiba mais</a>
-            </article> -->
+            <!-- Cards serão renderizados aqui pelo JavaScript -->
         </section>
     </main>
 
+    <!-- MODAL -->
+    <div id="modal-overlay" class="modal-overlay">
+        <div class="modal-container">
+            <button id="modal-close-btn" class="modal-close-btn">✕</button>
+
+            <div class="modal-content">
+                <div class="modal-image-container">
+                    <img id="modal-image" src="" alt="Imagem do veículo">
+                </div>
+
+                <div class="modal-info">
+                    <h2 id="modal-title">Título do Veículo</h2>
+                    <p id="modal-description">Descrição completa do veículo aparecerá aqui.</p>
+
+                    <div class="modal-price">
+                        <span class="price-label">Valor:</span>
+                        <span id="modal-price" class="price-value">R$ 0,00</span>
+                    </div>
+
+                    <div class="modal-buttons">
+                        <button class="btn-primary" id="btn-saiba-mais">
+                            Saiba Mais
+                        </button>
+                        <button class="btn-secondary" id="btn-tenho-interesse">
+                            Tenho Interesse
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <footer class="footer">
         <ul class="footer-links">
-            <li><a href="https://github.com/MarleyCastro" target="_blank">Python</a></li>
-            <li><a href="https://www.linkedin.com/in/marley-castro-9001061ab/" target="_blank">Python</a></li>
-            <li><a href="#">JavaScript</a></li>
-            <li><a href="#">HTML</a></li>
-            <li><a href="#">CSS</a></li>
+            <li><a href="https://github.com/MarleyCastro" target="_blank">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/marley-castro/" target="_blank">LinkedIn</a></li>
         </ul>
     </footer>
+
     <script src="script.js"></script>
 </body>
+
 </html>
