@@ -186,10 +186,6 @@ article p strong {
     box-shadow: 0 4px 8px rgba(246, 114, 33, 0.3);
 }
 
-img {
-    width: 100px;
-}
-
 /* ==================== MODAL STYLES ==================== */
 
 .modal-overlay {
