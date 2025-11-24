@@ -262,17 +262,26 @@ article p strong {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, rgba(246, 114, 33, 0.1), rgba(246, 114, 33, 0.05));
+    position: relative;
     border-radius: 1rem;
     padding: 2rem;
     border: 1px solid var(--border-color);
+    /* Imagem de fundo padrão para celular */
+    background-image: url('assests/img.background/img-para-celular.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 250px; /* Garante uma altura mínima para o fundo aparecer */
 }
 
-.modal-image-container img {
-    width: 100%;
-    max-width: 350px;
+/* Estilo para a imagem do carro */
+#modal-image {
+    max-width: 100%;
+    max-height: 250px; /* Limita a altura da imagem do carro */
     height: auto;
     object-fit: contain;
+    position: relative;
+    z-index: 2; /* Garante que a imagem do carro fique sobre o fundo */
 }
 
 .modal-info {
@@ -398,6 +407,12 @@ article p strong {
 
 /* ==================== RESPONSIVE ==================== */
 
+@media (min-width: 769px) {
+    .modal-image-container {
+        /* Troca para a imagem de computador em telas maiores */
+        background-image: url('assests/img.background/img-para-computador.png');
+    }
+}
 @media (max-width: 768px) {
     header {
         flex-direction: column;

@@ -3,7 +3,7 @@
     "nome": "Fiat Uno Mille Fire Economy 1.0",
     "descricao": "O clássico 'tanquinho' que nunca te deixa na mão. Versão 2008, focada em economia máxima de combustível. Motor 1.0 Fire, quatro portas, super leve e ágil no trânsito urbano. Não tem luxo, mas tem a robustez e a manutenção mais barata do Brasil. Ideal para quem busca um primeiro carro ou um veículo para o dia a dia de trabalho.",
     "valor": "R$ 15.500",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
+    "imagem": "https://www.nicepng.com/png/full/229-2294741_veculo-fiat-uno-mille-economy-02-portas-bsico.png"
   },
   {
     "nome": "VW Gol G3 Power 1.0 16V",
@@ -87,7 +87,7 @@
     "nome": "VW Gol G4 Trend 1.0 8V",
     "descricao": "Um dos últimos Gol G4 produzidos, ano 2013. Versão Trend, que oferece um mínimo de conforto e segurança. Embora seja uma plataforma antiga, é extremamente confiável e popular. Perfeito para quem busca um carro 'novo' no visual, mas com a mecânica simples e acessível do Gol G2/G3.",
     "valor": "R$ 22.900",
-    "imagem": "hhttps://image1.mobiauto.com.br/images/api/images/v1.0/82119623/transform/fl_progressive,f_webp,q_auto"
+    "imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/82525266/transform/fl_progressive,f_webp,q_85,w_959"
   },
   {
     "nome": "Ford Ka GL 1.0 (Endura)",
@@ -105,7 +105,7 @@
     "nome": "VW Polo Hatch 1.6 Mi",
     "descricao": "Hatch 'premium' da VW, ano 2005. Embora compartilhe o motor 1.6 com o Gol, o Polo oferece acabamento superior, estrutura mais rígida e melhor isolamento acústico. Carro mais moderno e seguro, ideal para quem busca qualidade de carro médio com manutenção de popular.",
     "valor": "R$ 24.500",
-    "imagem": "https://img.pcauto.com/model/images/touPic/my/Volkswagen-Polo_81_small.png"
+    "imagem": "https://pngimg.com/uploads/volkswagen/small/volkswagen_PNG1792.png"
   },
   {
     "nome": "Fiat Prêmio CSL 1.5",
@@ -129,145 +129,121 @@
     "nome": "VW Fusca Série Ouro",
     "descricao": "Um dos últimos Fuscas produzidos, ano 1996 (retorno da produção). Versão Série Ouro, com detalhes exclusivos e motor 1.600 com catalisador. Veículo com apelo histórico e de coleção, com manutenção trivial e inesgotável. Um clássico eterno, perfeito para o uso urbano nostálgico.",
     "valor": "R$ 29.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/316_4.webp"
+    "imagem": "https://png.pngtree.com/png-clipart/20240701/original/pngtree-yellow-colour-volkswagen-new-beetle-png-image_15461728.png"
   },
   {
     "nome": "Fiat Uno Electronic 1.0 (Brio)",
     "descricao": "Modelo de transição, ano 1994. Já com injeção eletrônica monoponto (ie), que melhorou a partida a frio e o consumo, mas ainda com o design quadrado. O Brio era a versão mais simples. Carro de batalha, com o DNA de agilidade e confiabilidade do Uno. Poucas frescuras, muita utilidade.",
     "valor": "R$ 10.900",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
+    "imagem": "https://locaauto.com.br/wp-content/uploads/2017/07/novo-uno.png"
   },
   {
     "nome": "VW Saveiro CL 1.8 Mi (G2)",
     "descricao": "Picape robusta de trabalho, ano 1998. Versão CL (básica) com cabine simples e o confiável motor AP 1.8 Mi. Ideal para pequenas empresas ou fazendas, onde a força do 1.8 e a simplicidade de manutenção são cruciais. Carroceria íntegra e sem grandes detalhes.",
     "valor": "R$ 21.000",
-    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3630/model_main_com_cor_desktop_webp_com_sombra_14112019161113.webp"
+    "imagem": "https://images.tcdn.com.br/img/img_prod/895050/kit_pastilhas_de_freio_dianteira_lonaflex_p54_corsa_saveiro_g3_1729_2_ba6ad973af1a901746caeb74ecca3789.png"
   },
   {
     "nome": "Ford Royale Ghia 2.0",
     "descricao": "A perua grande derivada do Ford Versailles (que era um VW Santana rebatizado). Ano 1995, versão topo de linha Ghia, com motor 2.0. Conforto de sedã de luxo e espaço de perua familiar. Ar-condicionado, direção hidráulica e o robusto motor AP 2.0. Um carro imponente com preço de popular.",
     "valor": "R$ 16.900",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/0/431_5.jpg"
+    "imagem": "https://blog.checkcarro.com.br/wp-content/uploads/2024/11/ford-royale-jpg.png"
   },
   {
     "nome": "VW Gol G2 CLI 1.6 Mi",
     "descricao": "O popular Bolinha que todo mundo ama! Ano 1997, motor AP 1.6 Injeção Eletrônica (Mi), já com vidros e travas elétricas. É o carro perfeito para o dia a dia, robusto, fácil de manter e com peças em qualquer esquina. Modelo CLI, a versão intermediária, mais confortável que a CL mas mantendo a simplicidade mecânica. Pintura em bom estado e interior conservado. Pneus novos.",
     "valor": "R$ 18.500",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/322_4.webp"
+    "imagem": "https://pngimg.com/uploads/volkswagen/small/volkswagen_PNG1800.png"
   },
   {
     "nome": "Fiat Palio EDX 1.0 4 Portas",
     "descricao": "Palio G1, ano 1998, 4 portas, motor Fiasa 1.0. Excelente opção para quem busca economia máxima e baixo custo de manutenção. É um carro extremamente honesto, com manutenção preventiva em dia. Versão EDX, bem básica, sem opcionais de fábrica, mas com alarme instalado. Ideal para universitários ou para o segundo carro da família. Documentação OK.",
     "valor": "R$ 13.990",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/399_4.webp"
+    "imagem": "https://pngimg.com/uploads/fiat/small/fiat_PNG11885.png"
   },
   {
     "nome": "Chevrolet Corsa Sedan Super 1.6 8V",
     "descricao": "Sedan confiável e muito espaçoso. Ano 1999, motor 1.6 de 8 válvulas, potente e econômico. Versão Super, já equipada com direção hidráulica, ar-condicionado (precisa de gás) e vidros elétricos dianteiros. O Corsa Sedan é famoso pelo porta-malas generoso e pela mecânica GM Family I, barata e durável. Ideal para viagens curtas e longas.",
     "valor": "R$ 19.800",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/142_4.webp"
+    "imagem": "https://www.webmotors.com.br/tabela-fipe/_next/image?url=https%3A%2F%2Fwww.webmotors.com.br%2Fimagens%2Fprod%2F345601%2FCHEVROLET_CLASSIC_1.0_MPFI_ADVANTAGE_8V_FLEX_4P_MANUAL_34560108043613272.webp&w=1265&q=75"
   },
   {
     "nome": "Ford Del Rey Belina Ghia 1.8",
     "descricao": "Uma verdadeira relíquia da Autolatina. Belina ano 1987, versão topo de linha Ghia, equipada com motor AP 1.8 a gasolina. Interior luxuoso (para a época) com acabamento em veludo. Carro em excelente estado de conservação, pintura original e todos os detalhes de acabamento preservados. Perfeito para colecionadores ou entusiastas de clássicos. Possui direção hidráulica.",
     "valor": "R$ 25.000",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/204_4.webp"
+    "imagem": "https://www.autoo.com.br/fotos/2024/3/1280_960/delreyp1_15032024_77851_1280_960.jpg"
   },
   {
     "nome": "VW Voyage C 1.6 Álcool (Quadrado)",
     "descricao": "Voyage clássico quadrado, ano 1985, motor 1.6 a Álcool. Configuração simples (versão C), com painel satélite e bancos originais. Carro íntegro, ótimo para projetos de restauração ou para uso diário por quem não abre mão da robustez dos motores AP antigos. Necessita apenas de pequenos ajustes na carburação. Placa preta em potencial.",
     "valor": "R$ 17.500",
-    "imagem": "https://production.autoforce.com/uploads/version/profile_image/3702/model_main_com_cor_desktop_webp_com_sombra_14112019171120.webp"
+    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/0/495_17.jpg"
   },
   {
     "nome": "Chevrolet Opala Comodoro 4.1",
     "descricao": "O seis cilindros mais amado do Brasil! Opala Comodoro ano 1989, motor 4.1 (250s) a gasolina, câmbio manual de 4 marchas. Modelo de luxo da época, com interior reformado mantendo o padrão original. Carro muito bem cuidado, utilizado apenas em passeios de fim de semana. Direção hidráulica e suspensão macia. Ronco inconfundível.",
     "valor": "R$ 45.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/170_4.webp"
+    "imagem": "https://img.assinaja.com/assets/tZ/041/img/458694_520x520.png"
   },
   {
     "nome": "Fiat Tempra HLX 2.0 16V",
     "descricao": "Sedã de respeito dos anos 90, ano 1996. Versão HLX, top de linha, com motor 2.0 16V de 127cv. Completo de fábrica: ar digital, direção hidráulica, trio elétrico e teto solar manual (raridade!). Manutenção em dia, correia dentada trocada. Um carro que oferece muito conforto e desempenho por um preço acessível. Exige um proprietário cuidadoso.",
     "valor": "R$ 16.900",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/483_4.webp"
+    "imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/234157513/transform/fl_progressive,f_webp,q_auto"
   },
   {
     "nome": "VW Fox City 1.0 Flex",
     "descricao": "Fox ano 2006, versão de entrada City, motor 1.0 Flex. Carro com design elevado, excelente posição de dirigir e porta-malas decente para o segmento. Super econômico no etanol e na gasolina. Possui ar quente e limpador traseiro. Baixa quilometragem para o ano, perfeito para rodar na cidade com agilidade e visibilidade.",
     "valor": "R$ 23.500",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/529_4.webp"
+    "imagem": "https://pngimg.com/uploads/volkswagen/small/volkswagen_PNG1796.png"
   },
   {
     "nome": "Chevrolet Celta Life 1.0 VHC-E",
     "descricao": "O popular que nunca quebra! Celta ano 2009, motor 1.0 VHC-E, já Flexpower, muito econômico. Versão Life, a mais básica (2 portas), mas com som simples instalado. É o carro ideal para quem busca baixíssimo custo de seguro e manutenção. Pneus em bom estado. Revisão simples feita há 2 meses.",
     "valor": "R$ 19.900",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/133_4.webp"
+    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/0/130_12.jpg"
   },
   {
     "nome": "Ford Focus Hatch 1.6 8V (Geração 1.5)",
     "descricao": "Hatch médio de excelente dirigibilidade. Focus ano 2004, motor 1.6 8V Zetec Rocam. Versão com ar-condicionado, direção hidráulica e vidros elétricos. Este modelo já possui o 'facelift' da primeira geração, conhecido pelo conjunto mecânico robusto. Ótimo desempenho na estrada e muito estável nas curvas.",
     "valor": "R$ 22.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/227_4.webp"
-  },
-  {
-    "nome": "Fiat Uno SX Young 1.0",
-    "descricao": "Edição especial do Uno Mille, ano 2002. Motor Fiasa 1.0, super leve e ágil na cidade. O diferencial do Young está nos detalhes internos e no adesivo exclusivo. Carro muito bem conservado, com pintura original e interior limpo. É um dos últimos Fiasa antes da consolidação do Fire. Simplesmente indestrutível.",
-    "valor": "R$ 15.500",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/269_4.webp"
+    "imagem": "https://pngimg.com/uploads/ford/small/ford_PNG12204.png"
   },
   {
     "nome": "Chevrolet Omega GLS 2.2 MPFI",
     "descricao": "O último Omega brasileiro, ano 1997. Motor 2.2 MPFI de 4 cilindros, mais econômico que o 3.0 e 4.1, mas mantendo o conforto inigualável. Versão GLS completa, com ar digital, direção escamoteável e bancos de veludo. Carro de procedência, ideal para quem busca um sedã grande e confortável a preço de popular. Necessário apenas pequenos retoques na pintura.",
     "valor": "R$ 24.900",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/169_4.webp"
+    "imagem": "https://static.wixstatic.com/media/ded390_425f324edd6b4cd0b81667ea943d7f60~mv2.png/v1/fill/w_640,h_300,al_b,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ded390_425f324edd6b4cd0b81667ea943d7f60~mv2.png"
   },
   {
     "nome": "VW Golf GLX 2.0 Mi (Mexicanão)",
     "descricao": "Golf GLX importado do México, ano 1995. Motor 2.0 Injeção Eletrônica, famoso pela sua força e confiabilidade. Versão completa, com ar-condicionado e teto solar elétrico original de fábrica. Um clássico hatch dos anos 90, com acabamento superior aos nacionais da época. Carroceria e mecânica em excelente estado.",
     "valor": "R$ 27.000",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/326_4.webp"
+    "imagem": "https://pngimg.com/uploads/volkswagen/small/volkswagen_PNG1793.png"
   },
   {
-    "nome": "Fiat Palio Fire Economy 1.0 2P",
-    "descricao": "O campeão de vendas da economia Fiat. Palio G3 (frente atualizada), ano 2009, motor Fire 1.0 Economy, otimizado para ser ultra-econômico. Modelo 2 portas, ideal para o dia a dia e fácil de estacionar. Possui apenas desembaçador traseiro. Perfeito para motoristas de aplicativo ou uso urbano intenso. Documentação e IPVA 2024 pagos.",
+    "nome": "Fiat 500 Fire Economy 1.0 2P",
+    "descricao": "O campeão de vendas da economia Fiat. 500 G3 (frente atualizada), ano 2009, motor Fire 1.0 Economy, otimizado para ser ultra-econômico. Modelo 2 portas, ideal para o dia a dia e fácil de estacionar. Possui apenas desembaçador traseiro.",
     "valor": "R$ 21.000",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/399_4.webp"
-  },
-  {
-    "nome": "Renault Sandero Expression 1.6 8V",
-    "descricao": "Hatch moderno, espaçoso e com mecânica confiável Renault/Nissan. Sandero ano 2012, motor 1.6 8V, robusto e com bom torque. Versão Expression, já equipada com ar-condicionado, direção hidráulica e computador de bordo. Posição de dirigir alta e amplo espaço interno, superando muitos concorrentes da categoria.",
-    "valor": "R$ 29.500",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/451_4.webp"
-  },
-  {
-    "nome": "Ford Corcel II LDO 1.6",
-    "descricao": "Corcel II de segunda fase, ano 1981, versão LDO (Luxo Decorado Opcional). Motor 1.6 a gasolina. Carro clássico e macio de guiar, famoso pelo conforto de seu rodar. Interior em tecido marrom original e painel em ótimo estado. Um pedaço da história automobilística brasileira. Excelente para encontros de carros antigos.",
-    "valor": "R$ 19.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/209_4.webp"
+    "imagem": "https://pngimg.com/uploads/fiat/small/fiat_PNG11862.png"
   },
   {
     "nome": "Chevrolet Montana Conquest 1.8 Flex",
     "descricao": "Picape compacta forte e versátil. Montana ano 2010, motor 1.8 FlexPower, com caçamba maior que a concorrente da Fiat. Versão Conquest, com direção hidráulica e protetor de caçamba. Ótimo veículo de trabalho ou para lazer, ideal para transportar cargas leves. Mecânica barata e amplamente conhecida no mercado.",
     "valor": "R$ 31.000",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/165_4.webp"
+    "imagem": "https://cdn.autopapo.com.br/carro/chevrolet/montana/destaque-v2.png"
   },
   {
     "nome": "VW Gol G5 1.0 Ecomotion",
     "descricao": "O Gol na plataforma moderna. Ano 2011, motor 1.0 Flex, já com o sistema Ecomotion que visa maior economia de combustível. O G5 trouxe mais segurança e conforto em relação às gerações anteriores. Versão básica, 2 portas, mas com excelente estrutura. Manutenção em dia, carro pronto para rodar.",
     "valor": "R$ 25.900",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/537_4.webp"
+    "imagem": "https://pngimg.com/uploads/volkswagen/small/volkswagen_PNG1824.png"
   },
   {
     "nome": "Fiat Stilo Sporting 1.8 8V",
     "descricao": "Hatch médio com visual esportivo. Stilo ano 2008, motor 1.8 8V Flex (GM), famoso pela robustez e torque. Versão Sporting com rodas de liga leve exclusivas e detalhes internos. Possui ar-condicionado, direção elétrica Dual Drive e som original. Carro muito completo e divertido de dirigir. Pneus semi-novos.",
     "valor": "R$ 26.500",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/479_4.webp"
-  },
-  {
-    "nome": "VW Brasília 1600",
-    "descricao": "Clássico robusto da Volkswagen, ano 1979. Motor 1600 refrigerado a ar, carburador simples. Carro de família, muito bem conservado, com interior original de fábrica e pintura na cor bege clássica. Veículo com excelente estrutura, ideal para quem quer um clássico confiável e com alta liquidez. Pneus faixas brancas novos.",
-    "valor": "R$ 22.000",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/302_4.webp"
+    "imagem": "https://cdn.autopapo.com.br/carro/fiat/stilo/destaque.png"
   },
   {
     "nome": "Peugeot 206 Soleil 1.6 16V",
@@ -279,24 +255,24 @@
     "nome": "Hyundai HB20 Comfort Plus 1.0",
     "descricao": "Um dos populares mais modernos e desejados. HB20 ano 2014, motor 1.0 aspirado, econômico e eficiente. Versão Comfort Plus, com ar-condicionado, direção hidráulica e vidros elétricos nas 4 portas. Carro com ótimo acabamento interno e histórico de baixa manutenção. Perfeito para quem busca modernidade e segurança.",
     "valor": "R$ 38.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/804_4.webp"
+    "imagem": "https://cdn.autopapo.com.br/carro/hyundai/hb20-10-comfort-plus-bluemedia-2017/destaque-v1.png"
   },
   {
     "nome": "Ford Verona LX 1.8",
     "descricao": "Sedã médio derivado do Escort. Verona ano 1991, motor AP 1.8 a gasolina. Versão LX com bom pacote de conforto, incluindo vidros e travas elétricas. Um dos carros mais elegantes da parceria Autolatina. Mecânica robusta e de fácil manutenção. Interior em tecido cinza original. Ótima opção custo-benefício para sedã.",
     "valor": "R$ 14.500",
-    "imagem": "https://img0.icarros.com/dbimg/imgmodelo/4/255_4.webp"
+    "imagem": "https://cdn.autopapo.com.br/carro/ford/verona/destaque-v3.png"
   },
   {
     "nome": "Fiat Duna CSL 1.6",
     "descricao": "Raridade no Brasil! O sedã médio da Fiat, versão rebatizada do Prêmio/Elba, importado da Argentina. Duna CSL ano 1992, motor 1.6 Fiasa. Possui ar-condicionado e bom espaço interno. Carro ideal para colecionadores ou para quem aprecia modelos exclusivos. Mecânica compatível com o Prêmio nacional. Documentos em ordem.",
     "valor": "R$ 18.000",
-    "imagem": "https://img1.icarros.com/dbimg/imgmodelo/4/267_4.webp"
+    "imagem": "https://dicas.olx.com.br/wp-content/uploads/2024/02/Fiat-Premio-CSL-anos-1990_1280x768.png"
   },
   {
     "nome": "Ford Courier L 1.6 Mi",
     "descricao": "Picape utilitária Ford, ano 2001. Motor Zetec Rocam 1.6 Mi, conhecido pela força e durabilidade. Versão L (básica), com cabine simples e grande capacidade de carga. Ideal para pequenos empreendedores ou uso rural. Mecânica revisada, sem vazamentos, pneus robustos para trabalho. Direção manual, carro simples e forte.",
     "valor": "R$ 17.800",
-    "imagem": "https://img2.icarros.com/dbimg/imgmodelo/4/210_4.webp"
+    "imagem": "https://cdn.autopapo.com.br/carro/ford/courier/destaque-v1.png"
   }
 ]
