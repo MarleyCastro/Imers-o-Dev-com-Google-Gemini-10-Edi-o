@@ -27,17 +27,7 @@ Aqui estão alguns destaques do que aprendi durante a imersão:
 
 Fundamentos: Estrutura de dados, organização de código, melhores práticas
 
-Tecnologias: (liste os frameworks, linguagens ou ferramentas que você está usando)
-
-Ex: JavaScript / TypeScript, React, Node.js, Firebase
-
-Ex: HTML / CSS / Bootstrap, APIs REST, banco de dados SQL / NoSQL
-
-Ferramentas de desenvolvimento: Git / GitHub, VSCode, ambientes de teste
-
-Metodologias: Desenvolvimento ágil, trabalho em equipe, revisões de código
-
-Projeto prático: Já iniciei / desenvolvi um projeto para (descrever brevemente o que você está construindo)
+ HTML / CSS / Javascript, JSON / Google Gemmini
 
 🌟 Minha experiência até agora
 
